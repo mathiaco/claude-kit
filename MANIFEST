@@ -1,0 +1,9 @@
+CLAUDE.md
+agents/code-explorer.md
+agents/git-shipper.md
+agents/plan-implementer.md
+agents/pr-comment-triage.md
+agents/test-runner.md
+agents/web-researcher.md
+skills/handoff/SKILL.md
+hooks/context-check.py
